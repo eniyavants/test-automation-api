@@ -1,0 +1,16 @@
+{
+  "name": "bnz-assessment",
+  "version": "1.0.0",
+  "description": "API automation test suite to test the weather api's for open-meteo application using playwright",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "api",
+    "playwright"
+  ],
+  "author": "Eni Selvi",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.35.1"
+  }
+}
