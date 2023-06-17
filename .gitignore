@@ -25,4 +25,4 @@ out
 .vscode
 
 # Local directory
-.DS_Store
+*.DS_Store
